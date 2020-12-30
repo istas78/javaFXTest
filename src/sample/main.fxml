@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane blendMode="SCREEN" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <MenuBar>
+        <menus>
+          <Menu mnemonicParsing="false" text="Properties">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Close" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem mnemonicParsing="false" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <Button layoutX="50.0" layoutY="50.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="50.0" layoutY="90.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="50.0" layoutY="130.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="50.0" layoutY="170.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="50.0" layoutY="210.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="50.0" layoutY="250.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="50.0" layoutY="290.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="50.0" layoutY="330.0" mnemonicParsing="false" text="Button" />
+   </children>
+</AnchorPane>
